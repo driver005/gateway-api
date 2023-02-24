@@ -1,0 +1,8 @@
+{
+  "name": "StripeAPINode",
+  "packageManager": "yarn@3.3.0",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
